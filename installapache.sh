@@ -1,0 +1,1 @@
+sudo apt install apache2 -y  &> /dev/null && echo "Apache2 installed." && wget https://www.free-css.com/assets/files/free-css-templates/download/page296/listrace.zip &> /dev/null && unzip listrace.zip &> /dev/null && sudo mv listrace-v1.0/* /var/www/html/ && echo "You can vist my web site now."
