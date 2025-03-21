@@ -15,7 +15,6 @@ bash removeapache.sh
 bash removephpinfo.sh
 簡易算盤
 bash calculator.sh
-```
 
 ### 2. 操作流程
 - **安裝 `Apache2` 和 `PHP`**：程式會自動安裝 Web 伺服器與 PHP 環境。
